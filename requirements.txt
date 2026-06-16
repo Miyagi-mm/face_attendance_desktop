@@ -1,0 +1,8 @@
+opencv-python>=4.10
+numpy>=1.26
+pillow>=10.4
+pymysql>=1.1
+pyinstaller>=6.0
+flask>=3.0
+insightface>=1.0
+onnxruntime-gpu>=1.26
